@@ -3,7 +3,9 @@ Dump of data scraped from election commission website for Dec 2023 polls
 
 The data is available in the csv [all_candidates_data_2023.csv](all_candidates_data_2023.csv)
 
-This is mainly to help academics, researchers etc. who aren't comfortable with coding.
+What the different fields in the csv represent is pretty self-explanatory.
+
+Have put this out mainly to help academics, researchers etc. who aren't comfortable with coding.
 
 Usually Ashoka university's [Lok Dhaba](https://lokdhaba.ashoka.edu.in/) would have put up the data by now, but in case they don't, hopefully this will be an acceptable substitute.
 
