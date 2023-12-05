@@ -113,9 +113,3 @@ async def run_all(seats_df, dump_csv):
 		await browser.close()
 
 asyncio.run(run_all(seats_df, dump_csv))
-
-
-# # /home/ubuntu/work/spotify_management_redux/complete_dump.py
-
-# # cd /home/ubuntu/work/spotify_management_redux && /usr/bin/python3 ./complete_dump.py >> /home/ubuntu/work/spotify_management_redux/logs/`date +\%Y-\%m-\%d-\%H:\%M`-complete_dump.log 2>&1
-
