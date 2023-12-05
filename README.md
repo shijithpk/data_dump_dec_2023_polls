@@ -9,6 +9,6 @@ Have put this out mainly to help academics, researchers etc. who aren't comforta
 
 Usually Ashoka university's [Lok Dhaba](https://lokdhaba.ashoka.edu.in/) would have put up the data by now, but in case they don't, hopefully this will be an acceptable substitute.
 
-Given the structure of the data, you would stil need considerable excel or stata or SPSS skills to do something analytical with the csv, but will leave that up to you.
+Given the structure of the data, you would still need considerable excel or stata or SPSS skills to do something analytical with the csv, but will leave that up to you.
 
 The python script used to scrape the data [scrape_final_position.py](scrape_final_position.py) is also in the repo.
